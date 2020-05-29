@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# virtual env
+koboenv/
+
+#temporary builds
+_build/
